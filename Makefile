@@ -1,4 +1,4 @@
-test:ObjectPool.cc
+test:Unitest.cc
 	g++ -o $@ $^
 
 rm:
